@@ -1,0 +1,25 @@
+_repo: The-Old-Humanities-and-the-New-Science_48994
+contributor:
+  commentator:
+    agent_name: Cushing, Harvey
+    gutenberg_agent_id: '45082'
+    url: http://www.gutenberg.org/2009/agents/45082
+creator:
+  author:
+    agent_name: Osler, William
+    birthdate: 1849
+    deathdate: 1919
+    gutenberg_agent_id: '660'
+    url: http://www.gutenberg.org/2009/agents/660
+    wikipedia: http://en.wikipedia.org/wiki/William_Osler
+description: ''
+gutenberg_issued: '2015-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48994'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: The Old Humanities and the New Science
+url: http://www.gutenberg.org/ebooks/48994
