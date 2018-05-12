@@ -1,9 +1,13 @@
 _repo: The-Old-Humanities-and-the-New-Science_48994
+_version: 0.1.0
 contributor:
   commentator:
     agent_name: Cushing, Harvey
     gutenberg_agent_id: '45082'
     url: http://www.gutenberg.org/2009/agents/45082
+covers:
+- cover_type: archival
+  image_path: 48994-h/images/cover.jpg
 creator:
   author:
     agent_name: Osler, William
@@ -13,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/660
     wikipedia: http://en.wikipedia.org/wiki/William_Osler
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48994#The-Old-Humanities-and-the-New-Science
 gutenberg_issued: '2015-05-19'
 gutenberg_type: Text
 identifiers:
